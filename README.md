@@ -67,3 +67,6 @@ https://webhook.gatsbyjs.com/hooks/data_source/942d835a-e098-41e9-8a86-15bb8d16a
 HOSTED ON GATSBY CLOUD
 With domains names:
 mygatsbysitemain57969.gatsbyjs.io
+
+Gatsby Plugin Library
+https://www.gatsbyjs.com/plugins
