@@ -68,8 +68,8 @@ HOSTED ON GATSBY CLOUD
 With domains names:
 mygatsbysitemain57969.gatsbyjs.io
 
-Gatsby Plugin Library
-https://www.gatsbyjs.com/plugins
+[Gatsby Plugin Library](https://www.gatsbyjs.com/plugins)
 
-GraphQL
-https://graphql.org/
+[GraphQL](https://graphql.org/)
+
+[Gatsby Tutorials](https://www.gatsbytutorials.com/)
