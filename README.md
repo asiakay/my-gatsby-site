@@ -70,3 +70,6 @@ mygatsbysitemain57969.gatsbyjs.io
 
 Gatsby Plugin Library
 https://www.gatsbyjs.com/plugins
+
+GraphQL
+https://graphql.org/
