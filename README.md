@@ -52,3 +52,18 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+Additional Resources: 
+Starting a new project repo on the command line
+https://hub.github.com/
+
+5 steps to change GitHub default branch from master to main
+https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/
+
+This POST endpoint should be triggered on any content change so your Preview is consistent with the state of your CMS, automatically
+https://webhook.gatsbyjs.com/hooks/data_source/942d835a-e098-41e9-8a86-15bb8d16a369
+
+HOSTED ON GATSBY CLOUD
+With domains names:
+mygatsbysitemain57969.gatsbyjs.io
